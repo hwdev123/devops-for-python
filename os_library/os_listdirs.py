@@ -1,5 +1,5 @@
 import os
-from os_library.functions import get_user_input
+from common.functions import get_user_input
 
 def change_directory(path):
     """
